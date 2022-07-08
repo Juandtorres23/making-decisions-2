@@ -67,17 +67,17 @@ var score = 74
 */
 
 //Code Here
-if (score >= 90) {
-  console.log('A')
-} else if (score >= 80 && score <= 89) {
-  console.log('B')
-} else if (score >= 70 && score <= 79) {
-  console.log('C')
-} else if (score >= 60 && score <= 69) {
-  console.log('D')
-} else if (score < 60) {
-  console.log('F')
-}
+// if (score >= 90) {
+//   console.log('A')
+// } else if (score >= 80 && score <= 89) {
+//   console.log('B')
+// } else if (score >= 70 && score <= 79) {
+//   console.log('C')
+// } else if (score >= 60 && score <= 69) {
+//   console.log('D')
+// } else if (score < 60) {
+//   console.log('F')
+// }
 
 
 ////////// Intermediate Problems //////////
@@ -93,7 +93,11 @@ var myFavoriteNumbers = [4,8,12,16,20,24];
 */
 
 //Code Here
+// let someNum = myFavoriteNumbers[4]
+// console.log(someNum)
 
+// let someNum = myFavoriteNumbers.slice(4, 5)
+// console.log(someNum)
 
 ////////// PROBLEM 7 //////////
 
